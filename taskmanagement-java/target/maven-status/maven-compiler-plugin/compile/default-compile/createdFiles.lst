@@ -1,0 +1,10 @@
+com/gasl/taskmanagement/vo/RequestResponse.class
+com/gasl/taskmanagement/dto/Tasks.class
+com/gasl/taskmanagement/bo/TaskManagementBoImpl.class
+com/gasl/taskmanagement/bo/TaskManagementBo.class
+com/gasl/taskmanagement/TaskmanagementApplication.class
+com/gasl/taskmanagement/dao/TaskManagementDaoImpl.class
+com/gasl/taskmanagement/vo/TaskFilters.class
+com/gasl/taskmanagement/dao/TaskManagementDao.class
+com/gasl/taskmanagement/controller/TaskManagementController.class
+com/gasl/taskmanagement/config/HibernateConfiguration.class

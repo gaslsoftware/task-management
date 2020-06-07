@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4055e4b-c715-40b2-8228-a57ad9aa22dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/config/HibernateConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/config/HibernateConfiguration.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cownAopBekhzJgZb45MPiSkkea" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TaskmanagementApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gasl.taskmanagement.TaskmanagementApplication" />
+      <module name="taskmanagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gasl.taskmanagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskmanagementApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4055e4b-c715-40b2-8228-a57ad9aa22dd" name="Default Changelist" comment="" />
+      <created>1591208418435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591208418435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure" timestamp="1591292873915">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1591292873915" />
+    <state x="801" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1591549926108">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1591549926108" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1591551868266">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1591551868266" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1591551868266">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1591551868266" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1591551868266">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1591551868266" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1591551868266">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591551868266" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1591539197556">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1591539197556" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1591539197556">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1591539197556" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1591539197556">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1591539197556" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1591539197556">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591539197556" />
+    <state x="526" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1591212181969">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="526" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591212181969" />
+    <state x="502" y="369" width="973" height="367" key="Registry" timestamp="1591209514397">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="502" y="369" width="973" height="367" key="Registry/67.27.1853.1053@67.27.1853.1053" timestamp="1591209514397" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1591213305473">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1591213305473" />
+    <state width="926" height="527" key="XDebugger.FullValuePopup" timestamp="1591210740199">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="527" key="XDebugger.FullValuePopup/67.27.1853.1053@67.27.1853.1053" timestamp="1591210740199" />
+    <state x="657" y="253" width="672" height="677" key="run.anything.popup" timestamp="1591208746742">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" width="672" height="677" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1591208746742" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1591209503213">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1591209503213" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/controller/TaskManagementController.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/controller/TaskManagementController.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/controller/TaskManagementController.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/controller/TaskManagementController.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/controller/TaskManagementController.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/controller/TaskManagementController.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="org.hibernate.query.internal.QueryImpl" fieldName="queryParameterBindings" />
+        <PinnedItemInfo typeName="com.gasl.taskmanagement.dto.Tasks" fieldName="taskId" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

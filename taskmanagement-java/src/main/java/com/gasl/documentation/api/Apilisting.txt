@@ -1,0 +1,18 @@
+url : http://localhost:8080/createnewuser - POST
+body : {
+         "userName": "shiva",
+         "password": "Welcome1",
+         "emailAddress": "shiva@gasl.com",
+         "mobileNumber": "454223"
+       }
+
+url : http://localhost:8080/authenticate - POST
+body : {
+    "username": "shiva",
+    "password": "Welcome1"
+}
+
+url : http://localhost:8080/tester - GET
+
+headers:
+Authorization : Bearer jwtToken

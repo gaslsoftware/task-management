@@ -1,0 +1,10 @@
+/var/www/html/taskmanagement/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDaoImpl.java
+/var/www/html/taskmanagement/src/main/java/com/gasl/taskmanagement/vo/RequestResponse.java
+/var/www/html/taskmanagement/src/main/java/com/gasl/taskmanagement/bo/TaskManagementBo.java
+/var/www/html/taskmanagement/src/main/java/com/gasl/taskmanagement/dao/TaskManagementDao.java
+/var/www/html/taskmanagement/src/main/java/com/gasl/taskmanagement/dto/Tasks.java
+/var/www/html/taskmanagement/src/main/java/com/gasl/taskmanagement/TaskmanagementApplication.java
+/var/www/html/taskmanagement/src/main/java/com/gasl/taskmanagement/vo/TaskFilters.java
+/var/www/html/taskmanagement/src/main/java/com/gasl/taskmanagement/config/HibernateConfiguration.java
+/var/www/html/taskmanagement/src/main/java/com/gasl/taskmanagement/controller/TaskManagementController.java
+/var/www/html/taskmanagement/src/main/java/com/gasl/taskmanagement/bo/TaskManagementBoImpl.java
